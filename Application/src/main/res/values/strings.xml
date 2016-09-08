@@ -18,10 +18,15 @@
     <string-array name="planets_array">
         <item>가족</item>
         <item>친구</item>
-        <item>선생</item>
+        <item>선생님</item>
     </string-array>
     <string name="drawer_open">Open navigation drawer</string>
     <string name="drawer_close">Close navigation drawer</string>
     <string name="action_websearch">Web search</string>
     <string name="app_not_available">Sorry, there\'s no web browser available</string>
+
+    <string name="menu_share">Share</string>
+    <string name="friend_text">이렇게 하는게 맞는지 모르겠다...맞겠지...</string>
+    <string name="quote_2">The true sign of intelligence is not knowledge but imagination - AlbertEinstein</string>
+    <string name="quote_3">As for me, all I know is that I know nothing - Socrates</string>
 </resources>
